@@ -42,7 +42,6 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
 &emsp;   &emsp; 1       
 &emsp;   &emsp; 2  3       
 &emsp;   &emsp; 4  5  6      
-&emsp;   &emsp; 7  8  9  10       
-&emsp;   &emsp; 11 12 13 14 15  
+&emsp;   &emsp; 7  8  9  10         
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.5-Number%20Pattern.py)
