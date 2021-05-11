@@ -3,8 +3,8 @@
 Here Some Different Type of Number Pattern Example
 
 #Pattern-1:- [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.1-Number%20Pattern.py)   
-<p align="center"> 1    
-                   1 2  
+<p align="center"> 1 </p>   
+<p align="center"> 1 2   </p>
                    1 2 3  
                    1 2 3 4  
  </p>
