@@ -66,7 +66,7 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.7-Number%20Pattern.py)
 
 ## Pattern-8:-    
-![Pattern-8:- ](_)
+![Pattern-8:- ](https://github.com/Mahendra710/Number_Pattern/blob/main/7.8.jpg.jpg)
           
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.8-Number%20Pattern.py)
