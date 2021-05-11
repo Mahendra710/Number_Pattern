@@ -75,11 +75,12 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.8-Number%20Pattern.py)
 
 ## Pattern-9:-    
-&emsp;   &emsp;1   
-&emsp;   &emsp;2 6   
-&emsp;   &emsp;3 7 10   
-&emsp;   &emsp;4 8 11 13   
-&emsp;   &emsp;5 9 12 14 15            
+    1 
+    2 6 
+    3 7 10 
+    4 8 11 13 
+    5 9 12 14 15 
+         
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.9-Number%20Pattern.py)
 
@@ -94,31 +95,42 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.10-Number%20Pattern.py)
 
 ## Pattern-11:-    
-&emsp;   &emsp;          
+    1       1 
+      2   2   
+        3     
+      4   4   
+    5       5 
+          
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.11-Number%20Pattern.py)
 
-## Pattern-12:-    
-&emsp;   &emsp; 1       
-&emsp;   &emsp; 2  3       
-&emsp;   &emsp; 4  5  6      
-&emsp;   &emsp; 7  8  9  10         
+## Pattern-12:-   
+    1       5 
+      2   4   
+        3     
+      2   4   
+    1       5 
+
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.12-Number%20Pattern.py)
 
 ## Pattern-13:-    
-&emsp;   &emsp; 1       
-&emsp;   &emsp; 2  3       
-&emsp;   &emsp; 4  5  6      
-&emsp;   &emsp; 7  8  9  10         
+    111 
+    111 222 
+    111 222 333 
+    111 222 333 444 
+    111 222 333 444 555 
+       
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.13-Number%20Pattern.py)
 
 ## Pattern-14:-    
-&emsp;   &emsp; 1       
-&emsp;   &emsp; 2  3       
-&emsp;   &emsp; 4  5  6      
-&emsp;   &emsp; 7  8  9  10         
+                        111  
+                   111  222  
+              111  222  333  
+         111  222  333  444  
+    111  222  333  444  555  
+       
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.14-Number%20Pattern.py)
 
