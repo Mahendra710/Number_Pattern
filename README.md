@@ -2,7 +2,7 @@
 Here Some Different Type of Number Pattern Examples
 
 
-## 1-Number Pattern:  Click Here For [Source Code]()
+## 1-Number Pattern:  Click Here For [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.1-Number%20Pattern.py)
      1 
      1 2 
      1 2 3 
