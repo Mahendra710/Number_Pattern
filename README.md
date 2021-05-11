@@ -2,7 +2,8 @@
 
 Here Some Different Type of Number Pattern Example
 
-**Pattern-1:** 1
-1 2
-1 2 3
-1 2 3 4
+**Pattern-1:** 
+1  
+1 2  
+1 2 3  
+1 2 3 4  
