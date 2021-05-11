@@ -69,8 +69,7 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
                 1   
             2   1   2   
         3   2   1   2   3   
-    4   3   2   1   2   3   4   
-5   4   3   2   1   2   3   4   5   
+    4   3   2   1   2   3   4       
           
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.8-Number%20Pattern.py)
