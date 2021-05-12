@@ -193,4 +193,4 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
           5 4  7 9 
             5  9 
             
-Click For: [Source Code]()
+Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/33-Star%20and%20Number%20Pattern.py)
