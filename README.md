@@ -171,3 +171,26 @@ Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main
     1   4   6   4   1   
 
 Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/7.18-Number%20Pattern.py)
+
+## Pattern-19:-
+    1                 1 
+    1 2             2 1 
+    1 2 3         3 2 1 
+    1 2 3 4     4 3 2 1 
+    1 2 3 4 5 5 4 3 2 1 
+
+Click For: [Source Code](https://github.com/Mahendra710/Number_Pattern/blob/main/11-Mirror%20image%20of%20number.py)
+
+## Pattern-20:-
+            *  1 
+          * *  2 3 
+        * * *  3 4 5 
+      * * * *  4 5 6 7 
+    * * * * *  5 6 7 8 9 
+    5 4 3 2 1  1 3 5 7 9 
+      5 4 3 2  3 5 7 9 
+        5 4 3  5 7 9 
+          5 4  7 9 
+            5  9 
+            
+Click For: [Source Code]()
